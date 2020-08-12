@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/theMathshaala/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/theMathshaala/static/js/main.2f6830f2.chunk.js",
+    "main.js.map": "/theMathshaala/static/js/main.2f6830f2.chunk.js.map",
+    "runtime-main.js": "/theMathshaala/static/js/runtime-main.0bcb7492.js",
+    "runtime-main.js.map": "/theMathshaala/static/js/runtime-main.0bcb7492.js.map",
+    "static/css/2.11829350.chunk.css": "/theMathshaala/static/css/2.11829350.chunk.css",
+    "static/js/2.eb87c3a5.chunk.js": "/theMathshaala/static/js/2.eb87c3a5.chunk.js",
+    "static/js/2.eb87c3a5.chunk.js.map": "/theMathshaala/static/js/2.eb87c3a5.chunk.js.map",
+    "index.html": "/theMathshaala/index.html",
+    "precache-manifest.cbd9a84a23b17485b1a7242e9c10f3d7.js": "/theMathshaala/precache-manifest.cbd9a84a23b17485b1a7242e9c10f3d7.js",
+    "service-worker.js": "/theMathshaala/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/theMathshaala/static/css/2.11829350.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/theMathshaala/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.eb87c3a5.chunk.js.LICENSE.txt": "/theMathshaala/static/js/2.eb87c3a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bcb7492.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.eb87c3a5.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.2f6830f2.chunk.js"
+  ]
+}
